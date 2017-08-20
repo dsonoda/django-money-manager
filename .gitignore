@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# pycharm
+.idea
+
+# vagrant
+.vagrant
+Vagrantfile
+
+# sqlite3
+db.sqlite3
